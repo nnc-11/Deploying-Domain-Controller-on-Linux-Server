@@ -1,1 +1,1 @@
-# Deploying-Domain-Controller-on-Linux-Server
+# Deploying Domain Controller on Linux Server
